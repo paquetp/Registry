@@ -1,2 +1,2 @@
-# TheRegistry
-The Registry Monetary System
+# The Registry Monetary System
+
